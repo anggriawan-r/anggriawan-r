@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate **Full Stack Web Developer** and **Mobile App Developer** with a strong interest in building dynamic web applications and feature-rich mobile apps.
 
 ### 🚀 Skills and Technologies:
-- **Languages:** Javascript, Typescript, PHP, Dart, Golang
+- **Language:** Javascript, Typescript, PHP, Dart, Golang
 - **Frontend:** React.js, Next.js, Tailwind CSS
 - **Backend:** Node.js, Express.js, Laravel, Firebase, MySQL, MongoDB
 - **Mobile:** Flutter, React Native
